@@ -1,0 +1,83 @@
+country	renewables_share_energy	peak_year	years_ago
+Iceland	82.835	2012	8
+Norway	71.18	1990	30
+New Zealand	45.595	1981	39
+Brazil	45.017	2019	1
+Sweden	44.85	2015	5
+Switzerland	40.627	1967	53
+Sri Lanka	36.199	1990	30
+Peru	35.136	2003	17
+Austria	34.771	2014	6
+Colombia	33.583	2005	15
+Canada	31.419	1986	34
+Chile	30.713	1987	33
+Ecuador	30.387	2019	1
+Denmark	30.163	2019	1
+Portugal	29.067	2014	6
+Latvia	28.697	2017	3
+Croatia	26.817	2014	6
+Finland	26.148	2019	1
+Venezuela	25.391	2019	1
+Vietnam	24.177	2017	3
+Philippines	23.944	1985	35
+Slovenia	20.668	2014	6
+Spain	20.088	1966	54
+Morocco	19.237	1965	55
+North Macedonia	18.931	2010	10
+Turkey	18.473	2019	1
+Italy	18.47	2014	6
+Argentina	17.992	2002	18
+Romania	17.972	2016	4
+Pakistan	17.737	1987	33
+Germany	17.485	2019	1
+Europe	16.491	2019	1
+Egypt	16.363	1978	42
+Ireland	15.45	2019	1
+United Kingdom	14.454	2019	1
+India	14.048	1978	42
+China	12.665	2019	1
+Greece	12.443	2018	2
+France	11.733	2019	1
+Japan	11.675	1965	55
+Taiwan	11.441	1968	52
+Indonesia	10.946	1970	50
+North America	10.921	2019	1
+Bulgaria	10.771	2018	2
+Mexico	10.385	1970	50
+Lithuania	9.318	2017	3
+Africa	9.222	1977	43
+Thailand	9.171	1967	53
+Slovakia	9.07	2016	4
+United States	8.712	2019	1
+Australia	8.567	2019	1
+Malaysia	8.245	1970	50
+Estonia	7.853	2017	3
+Belgium	6.937	2019	1
+Azerbaijan	6.906	2010	10
+Russia	6.588	2001	19
+Netherlands	6.54	2019	1
+Poland	6.182	2019	1
+Iraq	6.005	1992	28
+Bangladesh	5.757	1984	36
+Kazakhstan	5.673	2002	18
+Czechia	5.183	2019	1
+Algeria	5.171	1968	52
+Iran	4.814	1965	55
+Uzbekistan	4.242	2017	3
+Luxembourg	4.061	2019	1
+Hungary	4.017	2019	1
+Cyprus	3.926	2019	1
+Ukraine	3.269	2018	2
+South Korea	3.021	1966	54
+Israel	2.302	2019	1
+South Africa	2.21	2019	1
+United Arab Emirates	0.771	2019	1
+Belarus	0.638	2017	3
+Singapore	0.289	2003	17
+Trinidad and Tobago	0.215	1971	49
+Saudi Arabia	0.144	2019	1
+Kuwait	0.087	2019	1
+Hong Kong	0.084	2014	6
+Qatar	0.077	2011	9
+Turkmenistan	0.012	1997	23
+Oman	0.003	2016	4
