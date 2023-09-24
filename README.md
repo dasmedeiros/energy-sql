@@ -2,6 +2,9 @@
 
 This repository contains Python code for analyzing energy consumption data from a PostgreSQL database. The data includes information about energy consumption, renewable energy share, and electricity generation for various countries. The code uses the SQLAlchemy library to connect to the database, execute SQL queries, and perform data analysis and visualization using pandas and matplotlib.
 
+## Introduction 📚
+This project primarily focuses on showcasing SQL skills and data analysis techniques. While the analysis currently uses a single table, it is worth noting that for the current scope of the project, having a relational database may not be necessary. However, as the research progresses in the domain of energy consumption and sustainability, there is an intention to incorporate additional datasets to enhance the depth and breadth of the analytics.
+
 ## Getting Started 🚀
 
 Before running the code, ensure you have the following prerequisites:
