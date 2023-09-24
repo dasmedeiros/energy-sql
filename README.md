@@ -6,6 +6,7 @@ This repository contains Python code for analyzing energy consumption data from 
 
 Before running the code, ensure you have the following prerequisites:
 
+- The data that can be found here https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption
 - A PostgreSQL database (I suggest elephantSQL free instances!)
 - Python installed on your system
 - Required Python libraries: SQLAlchemy, pandas, and matplotlib
